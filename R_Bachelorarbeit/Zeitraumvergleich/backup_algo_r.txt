@@ -1,0 +1,148 @@
+library(dplyr)
+
+bundeslaender <- c("Berlin", "Hamburg", "Saarland", "Schleswig-Holstein")
+
+column.names <- c("time_from", "time_to", "x", "y", "bundesland", "p-value", "r-value")
+
+x="workplaces_percent_change_from_baseline"
+y<-c("retail_and_recreation_percent_change_from_baseline", "grocery_and_pharmacy_percent_change_from_baseline", "parks_percent_change_from_baseline", "transit_stations_percent_change_from_baseline") 
+
+
+for ( bundesland in bundeslaender) 
+{
+  print(paste(bundesland, ": "))
+  
+  
+  dataset <- read.csv("~/Desktop/Studium/Bachelorarbeit/Data Analytics/Data/Region_Mobility_Report_CSVs/2020_DE_Region_Mobility_Report.csv", header=TRUE)
+  dataset$date <- as.Date(dataset$date)
+
+  from_date1="2020-02-15"
+  to_date1="2020-05-25"
+  from_date2="2020-09-11"
+  to_date2="2020-12-20"
+ 
+  dataset <- dataset[dataset$sub_region_1==bundesland,]
+   #only consider timespans where people are usually on holidays to prevent distortion
+  dataset=filter(dataset, (date >= as.Date(from_date1) & date <= as.Date(to_date1)))
+  #dataset<-dataset%>%
+  # select(date, workplaces_percent_change_from_baseline, transit_stations_percent_change_from_baseline)
+  dataset$day <- weekdays(as.Date(dataset$date))
+  dataset=filter(dataset, day!="Saturday" & day!="Sunday")
+
+
+  for (i in 10:15) {
+    a <- cor.test(dataset$workplaces_percent_change_from_baseline, dataset[,i])
+    print(paste(colnames(dataset)[i], " R:", a$estimate, " p-value:", a$p.value))
+  }
+  
+  
+  
+  
+}
+
+
+
+
+
+---------------------------------------------------------------multiple time-spans------------------------------------------------------------------------------------------------------
+
+library(dplyr)
+
+bundeslaender <- c("Berlin", "Hamburg", "Saarland", "Schleswig-Holstein", "Baden-Württemberg", "Brandenburg", "Hessen", "Mecklenburg-Vorpommern", "Lower Saxony", "North Rhine-Westphalia", "Rhineland-Palatinate","Saxony-Anhalt","Saxony","Thuringia" )
+years <- c("2020", "2021")
+
+library("readxl")
+population_density <- read_excel("~/Desktop/Studium/Bachelorarbeit/Data Analytics/Data/population_density_bundeslaender.xlsx")
+#https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/_inhalt.html#sprg475598
+
+column.names <- c("time_from", "time_to", "x", "y", "bundesland", "p-value", "r-value")
+
+x="workplaces_percent_change_from_baseline"
+y<-c("retail_and_recreation_percent_change_from_baseline", "grocery_and_pharmacy_percent_change_from_baseline", "parks_percent_change_from_baseline", "transit_stations_percent_change_from_baseline") 
+
+
+
+
+
+
+for (year in years)
+  
+{
+  
+  print(paste("year: ", year))
+
+
+for ( bundesland in bundeslaender) 
+{
+  print(paste(bundesland, "(timespan 1): "))
+  
+
+  gsub(" ", "",paste("~/Desktop/Studium/Bachelorarbeit/Data Analytics/Data/Region_Mobility_Report_CSVs/",year, "_DE_Region_Mobility_Report.csv"))
+  
+  
+  dataset1 <- read.csv(gsub(" ", "",paste("~/Desktop/Studium/Bachelorarbeit/Data Analytics/Data/Region_Mobility_Report_CSVs/",year, "_DE_Region_Mobility_Report.csv")), header=TRUE)
+  dataset1$date <- as.Date(dataset1$date)
+  
+  from_date1=  gsub(" ", "", paste(year, "-02-15"))
+  to_date1=   gsub(" ", "",paste(year, "-05-25"))
+  from_date2= gsub(" ", "",paste(year, "-09-11"))
+  to_date2= gsub(" ", "",paste(year, "-12-20"))
+  
+  dataset1 <- dataset1[dataset1$sub_region_1==bundesland,]
+  #only consider timespans where people are usually on holidays to prevent distortion
+  dataset1=filter(dataset1, (date >= as.Date(from_date1) & date <= as.Date(to_date1)))
+  #dataset1<-dataset1%>%
+  # select(date, workplaces_percent_change_from_baseline, transit_stations_percent_change_from_baseline)
+  dataset1$day <- weekdays(as.Date(dataset1$date))
+  dataset1=filter(dataset1, day!="Saturday" & day!="Sunday")
+  
+  
+  for (i in 10:15) {
+    a <- cor.test(dataset1$workplaces_percent_change_from_baseline, dataset1[,i])
+    print(paste(colnames(dataset1)[i], " R:", a$estimate, " p-value:", a$p.value))
+  }
+  
+  
+  
+  
+  
+  print(paste(bundesland, "(timespan 2): "))
+  
+  
+  dataset2 <- read.csv(gsub(" ", "",paste("~/Desktop/Studium/Bachelorarbeit/Data Analytics/Data/Region_Mobility_Report_CSVs/",year, "_DE_Region_Mobility_Report.csv")), header=TRUE)
+  dataset2$date <- as.Date(dataset2$date)
+  
+  
+  dataset2 <- dataset2[dataset2$sub_region_1==bundesland,]
+  #only consider timespans where people are usually on holidays to prevent distortion
+  dataset2=filter(dataset2, (date >= as.Date(from_date2) & date <= as.Date(to_date2)))
+  #dataset2<-dataset2%>%
+  # select(date, workplaces_percent_change_from_baseline, transit_stations_percent_change_from_baseline)
+  dataset2$day <- weekdays(as.Date(dataset2$date))
+  dataset2=filter(dataset2, day!="Saturday" & day!="Sunday")
+  
+  
+  for (i in 10:15) {
+    b <- cor.test(dataset2$workplaces_percent_change_from_baseline, dataset2[,i])
+    print(paste(colnames(dataset2)[i], " R:", b$estimate, " p-value:", b$p.value))
+  }
+  
+  
+  
+  
+  
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+  

@@ -1,0 +1,1 @@
+dataframe=read.csv("/Users/Aleks/Desktop/Studium/Bachelorarbeit/DataAnalytics/Data/Verkehrszaehlungen/2020_Verkehrszaehlungen.csv", header = TRUE, sep = ";")

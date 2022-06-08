@@ -1,0 +1,481 @@
+"year","from","to","bundesland","variable_x","variable_y","R-value","p-value","population_density"
+"2020","2020-02-15","2020-05-25","Berlin","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.964208860515793,1.64641631887355e-41,4118
+"2020","2020-02-15","2020-05-25","Berlin","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.632057457216063,3.39003250636753e-09,4118
+"2020","2020-02-15","2020-05-25","Berlin","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",0.00838029653190034,0.944701922716863,4118
+"2020","2020-02-15","2020-05-25","Berlin","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.965829469748256,3.41914868703777e-42,4118
+"2020","2020-02-15","2020-05-25","Berlin","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,4118
+"2020","2020-02-15","2020-05-25","Berlin","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.965466933665958,4.8914864473267e-42,4118
+"2020","2020-09-11","2020-12-20","Berlin","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.474813752850727,2.86866762270899e-05,4118
+"2020","2020-09-11","2020-12-20","Berlin","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.300783070215449,0.0108102159331938,4118
+"2020","2020-09-11","2020-12-20","Berlin","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",0.442647400560033,0.000110945112868512,4118
+"2020","2020-09-11","2020-12-20","Berlin","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.676758698942464,9.25660384425916e-11,4118
+"2020","2020-09-11","2020-12-20","Berlin","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,4118
+"2020","2020-09-11","2020-12-20","Berlin","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.610849016578136,1.54074635681884e-08,4118
+"2020","2020-02-15","2020-05-25","Bavaria","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.870961050539937,5.56056870135377e-23,186
+"2020","2020-02-15","2020-05-25","Bavaria","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.739830652864389,1.7010364154377e-13,186
+"2020","2020-02-15","2020-05-25","Bavaria","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.233677383729438,0.0498444064859874,186
+"2020","2020-02-15","2020-05-25","Bavaria","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.904075814721381,3.54002923393172e-27,186
+"2020","2020-02-15","2020-05-25","Bavaria","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,186
+"2020","2020-02-15","2020-05-25","Bavaria","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.955447809799728,2.71725658675419e-38,186
+"2020","2020-09-11","2020-12-20","Bavaria","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.493681125326411,1.21542910565924e-05,186
+"2020","2020-09-11","2020-12-20","Bavaria","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.346508670724926,0.00307434274387648,186
+"2020","2020-09-11","2020-12-20","Bavaria","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",0.0882292354628421,0.464372784660094,186
+"2020","2020-09-11","2020-12-20","Bavaria","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.595178289265703,4.398299785503e-08,186
+"2020","2020-09-11","2020-12-20","Bavaria","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,186
+"2020","2020-09-11","2020-12-20","Bavaria","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.528687665061525,2.14447321415717e-06,186
+"2020","2020-02-15","2020-05-25","Hamburg","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.940510098765593,4.55171081258782e-34,2446
+"2020","2020-02-15","2020-05-25","Hamburg","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.61859699166098,8.97834693199366e-09,2446
+"2020","2020-02-15","2020-05-25","Hamburg","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.489288234600606,1.49120996711166e-05,2446
+"2020","2020-02-15","2020-05-25","Hamburg","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.953194655904517,1.43568950698778e-37,2446
+"2020","2020-02-15","2020-05-25","Hamburg","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,2446
+"2020","2020-02-15","2020-05-25","Hamburg","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.963021585124952,4.97690826517141e-41,2446
+"2020","2020-09-11","2020-12-20","Hamburg","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.289693612918455,0.0142670756674611,2446
+"2020","2020-09-11","2020-12-20","Hamburg","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.315594272677214,0.00734177689399656,2446
+"2020","2020-09-11","2020-12-20","Hamburg","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",0.208259195676209,0.081361552714508,2446
+"2020","2020-09-11","2020-12-20","Hamburg","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.442599192094364,0.000111159166820626,2446
+"2020","2020-09-11","2020-12-20","Hamburg","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,2446
+"2020","2020-09-11","2020-12-20","Hamburg","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.394495124982338,0.00066343922750179,2446
+"2020","2020-02-15","2020-05-25","Saarland","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.872842798783417,3.46077032907333e-23,384
+"2020","2020-02-15","2020-05-25","Saarland","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.782594410682429,7.59918188931633e-16,384
+"2020","2020-02-15","2020-05-25","Saarland","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.508839796754031,5.87072554006961e-06,384
+"2020","2020-02-15","2020-05-25","Saarland","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.905725409585152,2.00130126568126e-27,384
+"2020","2020-02-15","2020-05-25","Saarland","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,384
+"2020","2020-02-15","2020-05-25","Saarland","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.952068494408262,3.20000677645326e-37,384
+"2020","2020-09-11","2020-12-20","Saarland","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.250232161257406,0.035319399110463,384
+"2020","2020-09-11","2020-12-20","Saarland","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.324402887884209,0.00577985012206019,384
+"2020","2020-09-11","2020-12-20","Saarland","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.0963072269014781,0.424316716749672,384
+"2020","2020-09-11","2020-12-20","Saarland","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.617800621163666,9.49723285449127e-09,384
+"2020","2020-09-11","2020-12-20","Saarland","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,384
+"2020","2020-09-11","2020-12-20","Saarland","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.426276358337929,0.000210041145393637,384
+"2020","2020-02-15","2020-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.892823264150183,1.34090654220158e-25,184
+"2020","2020-02-15","2020-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.698109040878095,1.31656279261644e-11,184
+"2020","2020-02-15","2020-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.343186485919258,0.00339009713009045,184
+"2020","2020-02-15","2020-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.915731296106818,4.94350940616723e-29,184
+"2020","2020-02-15","2020-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,184
+"2020","2020-02-15","2020-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.970618277369017,2.02288030615558e-44,184
+"2020","2020-09-11","2020-12-20","Schleswig-Holstein","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.0515363841001468,0.669503784004281,184
+"2020","2020-09-11","2020-12-20","Schleswig-Holstein","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.135039223218665,0.261515699926871,184
+"2020","2020-09-11","2020-12-20","Schleswig-Holstein","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.0430350653219567,0.721579542130109,184
+"2020","2020-09-11","2020-12-20","Schleswig-Holstein","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.430981724339237,0.00017541585377113,184
+"2020","2020-09-11","2020-12-20","Schleswig-Holstein","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,184
+"2020","2020-09-11","2020-12-20","Schleswig-Holstein","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.349659751746976,0.00279936647173202,184
+"2020","2020-02-15","2020-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.866625762761761,1.61273404939981e-22,311
+"2020","2020-02-15","2020-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.727945736912772,6.36760589374788e-13,311
+"2020","2020-02-15","2020-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.489500246590379,1.47666046426912e-05,311
+"2020","2020-02-15","2020-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.891922659289518,1.76225263090012e-25,311
+"2020","2020-02-15","2020-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,311
+"2020","2020-02-15","2020-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.948807731235375,2.93541699879179e-36,311
+"2020","2020-09-11","2020-12-20","Baden-Württemberg","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.0717750807151744,0.55196341473738,311
+"2020","2020-09-11","2020-12-20","Baden-Württemberg","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.20086226706997,0.0930314414145022,311
+"2020","2020-09-11","2020-12-20","Baden-Württemberg","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.166857762295973,0.164290891454385,311
+"2020","2020-09-11","2020-12-20","Baden-Württemberg","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.341526590440665,0.00355842529309351,311
+"2020","2020-09-11","2020-12-20","Baden-Württemberg","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,311
+"2020","2020-09-11","2020-12-20","Baden-Württemberg","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.17810330287788,0.137280082883242,311
+"2020","2020-02-15","2020-05-25","Brandenburg","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.868954046353107,9.14639329506619e-23,85
+"2020","2020-02-15","2020-05-25","Brandenburg","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.669526689758273,1.72828258464181e-10,85
+"2020","2020-02-15","2020-05-25","Brandenburg","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.436552144372604,0.000141241338078882,85
+"2020","2020-02-15","2020-05-25","Brandenburg","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.878794929193175,7.33794502516844e-24,85
+"2020","2020-02-15","2020-05-25","Brandenburg","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,85
+"2020","2020-02-15","2020-05-25","Brandenburg","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.957702071059943,4.70357236170479e-39,85
+"2020","2020-09-11","2020-12-20","Brandenburg","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.152490471757563,0.204248529194229,85
+"2020","2020-09-11","2020-12-20","Brandenburg","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.293336374302341,0.0130390164869158,85
+"2020","2020-09-11","2020-12-20","Brandenburg","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",0.0901965517135138,0.454432330196144,85
+"2020","2020-09-11","2020-12-20","Brandenburg","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.542793759046142,1.00737949500357e-06,85
+"2020","2020-09-11","2020-12-20","Brandenburg","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,85
+"2020","2020-09-11","2020-12-20","Brandenburg","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.392984947991224,0.000698758927233697,85
+"2020","2020-02-15","2020-05-25","Hessen","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.922637334179625,2.90831899273575e-30,298
+"2020","2020-02-15","2020-05-25","Hessen","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.699886048955222,1.11074104177451e-11,298
+"2020","2020-02-15","2020-05-25","Hessen","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.50095100218552,8.61078021399192e-06,298
+"2020","2020-02-15","2020-05-25","Hessen","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.923453516914951,2.04510864143804e-30,298
+"2020","2020-02-15","2020-05-25","Hessen","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,298
+"2020","2020-02-15","2020-05-25","Hessen","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.972062429472866,3.64051353007858e-45,298
+"2020","2020-09-11","2020-12-20","Hessen","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.261082411199366,0.0278661091039728,298
+"2020","2020-09-11","2020-12-20","Hessen","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.24380101059512,0.0404750425411015,298
+"2020","2020-09-11","2020-12-20","Hessen","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",0.261807235703899,0.0274194852085456,298
+"2020","2020-09-11","2020-12-20","Hessen","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.402607470466796,0.000499989057000141,298
+"2020","2020-09-11","2020-12-20","Hessen","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,298
+"2020","2020-09-11","2020-12-20","Hessen","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.355623574046391,0.00233837545362231,298
+"2020","2020-02-15","2020-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.860428894863197,6.93750321062885e-22,69
+"2020","2020-02-15","2020-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.776620302970766,1.73706866530715e-15,69
+"2020","2020-02-15","2020-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",0.0544467196889273,0.654395670729062,69
+"2020","2020-02-15","2020-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.844033687425002,2.40289041259725e-20,69
+"2020","2020-02-15","2020-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,69
+"2020","2020-02-15","2020-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.924486749210513,1.3021811553259e-30,69
+"2020","2020-09-11","2020-12-20","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.34015306357659,0.00370329284944487,69
+"2020","2020-09-11","2020-12-20","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.352346077287014,0.00258252192150963,69
+"2020","2020-09-11","2020-12-20","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",0.264742564554028,0.0256720435753545,69
+"2020","2020-09-11","2020-12-20","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.437870661300493,0.000134105855035493,69
+"2020","2020-09-11","2020-12-20","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,69
+"2020","2020-09-11","2020-12-20","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.491581289401646,1.34070613589007e-05,69
+"2020","2020-02-15","2020-05-25","Lower Saxony","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.901990119704437,7.17537313835491e-27,168
+"2020","2020-02-15","2020-05-25","Lower Saxony","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.716087506515761,2.22237348460387e-12,168
+"2020","2020-02-15","2020-05-25","Lower Saxony","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.414336150550506,0.00032792816266339,168
+"2020","2020-02-15","2020-05-25","Lower Saxony","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.923212322428665,2.27030497697033e-30,168
+"2020","2020-02-15","2020-05-25","Lower Saxony","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,168
+"2020","2020-02-15","2020-05-25","Lower Saxony","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.969334587998282,8.65930092450469e-44,168
+"2020","2020-09-11","2020-12-20","Lower Saxony","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.0447035483145598,0.711249943299903,168
+"2020","2020-09-11","2020-12-20","Lower Saxony","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.201804961688719,0.0914749855702254,168
+"2020","2020-09-11","2020-12-20","Lower Saxony","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.196869083303525,0.099856174466193,168
+"2020","2020-09-11","2020-12-20","Lower Saxony","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.341790195878167,0.0035312064123947,168
+"2020","2020-09-11","2020-12-20","Lower Saxony","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,168
+"2020","2020-09-11","2020-12-20","Lower Saxony","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.327721312344809,0.00527229989180442,168
+"2020","2020-02-15","2020-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.888376938075767,5.05005412155543e-25,526
+"2020","2020-02-15","2020-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.704297383536973,7.24422726951288e-12,526
+"2020","2020-02-15","2020-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.617618299971687,9.61997179646287e-09,526
+"2020","2020-02-15","2020-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.899817110265078,1.47331564632299e-26,526
+"2020","2020-02-15","2020-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,526
+"2020","2020-02-15","2020-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.959326089806443,1.25178277440038e-39,526
+"2020","2020-09-11","2020-12-20","North Rhine-Westphalia","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.105334026929305,0.381986672154359,526
+"2020","2020-09-11","2020-12-20","North Rhine-Westphalia","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.209497836055672,0.0795262582249599,526
+"2020","2020-09-11","2020-12-20","North Rhine-Westphalia","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.0245846743755751,0.838738080266148,526
+"2020","2020-09-11","2020-12-20","North Rhine-Westphalia","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.57755539994397,1.3408900287989e-07,526
+"2020","2020-09-11","2020-12-20","North Rhine-Westphalia","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,526
+"2020","2020-09-11","2020-12-20","North Rhine-Westphalia","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.349926633681918,0.00277711856892282,526
+"2020","2020-02-15","2020-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.839908062725772,5.50052583001547e-20,206
+"2020","2020-02-15","2020-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.737586811354871,2.19432525677299e-13,206
+"2020","2020-02-15","2020-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.450654401897357,8.02270317255238e-05,206
+"2020","2020-02-15","2020-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.82651734812838,6.93827090513125e-19,206
+"2020","2020-02-15","2020-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,206
+"2020","2020-02-15","2020-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.94226994316179,1.66359206402094e-34,206
+"2020","2020-09-11","2020-12-20","Rhineland-Palatinate","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.144492488517341,0.229276204007952,206
+"2020","2020-09-11","2020-12-20","Rhineland-Palatinate","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.238487396230721,0.0451920968966045,206
+"2020","2020-09-11","2020-12-20","Rhineland-Palatinate","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.0991464165683341,0.410722171610726,206
+"2020","2020-09-11","2020-12-20","Rhineland-Palatinate","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.399750565280175,0.000552810279815204,206
+"2020","2020-09-11","2020-12-20","Rhineland-Palatinate","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,206
+"2020","2020-09-11","2020-12-20","Rhineland-Palatinate","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.365258196288054,0.00173578382304892,206
+"2020","2020-02-15","2020-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.871709773756529,4.60855015440896e-23,107
+"2020","2020-02-15","2020-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.764935566261369,8.15032020664953e-15,107
+"2020","2020-02-15","2020-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.474222480290476,2.94453445916553e-05,107
+"2020","2020-02-15","2020-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.874643567515507,2.18275545852173e-23,107
+"2020","2020-02-15","2020-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,107
+"2020","2020-02-15","2020-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.941638928285971,2.39521194657624e-34,107
+"2020","2020-09-11","2020-12-20","Saxony-Anhalt","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.213328639352623,0.0740577456610615,107
+"2020","2020-09-11","2020-12-20","Saxony-Anhalt","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.326276215643682,0.00548827365967553,107
+"2020","2020-09-11","2020-12-20","Saxony-Anhalt","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.0984362674154219,0.414098541742365,107
+"2020","2020-09-11","2020-12-20","Saxony-Anhalt","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.439838644531994,0.000124071518876104,107
+"2020","2020-09-11","2020-12-20","Saxony-Anhalt","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,107
+"2020","2020-09-11","2020-12-20","Saxony-Anhalt","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.32985822663357,0.00496668946100444,107
+"2020","2020-02-15","2020-05-25","Saxony","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.837913575660947,8.14063978729656e-20,221
+"2020","2020-02-15","2020-05-25","Saxony","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.777682567507143,1.50239679422432e-15,221
+"2020","2020-02-15","2020-05-25","Saxony","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.432510514941965,0.000165349556570913,221
+"2020","2020-02-15","2020-05-25","Saxony","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.850619324629373,6.08830737077553e-21,221
+"2020","2020-02-15","2020-05-25","Saxony","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,221
+"2020","2020-02-15","2020-05-25","Saxony","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.915809669261299,4.79370142522866e-29,221
+"2020","2020-09-11","2020-12-20","Saxony","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.560461897852352,3.71987722571139e-07,221
+"2020","2020-09-11","2020-12-20","Saxony","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.716033551635041,2.23472521448556e-12,221
+"2020","2020-09-11","2020-12-20","Saxony","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.0412988507701276,0.732381428804585,221
+"2020","2020-09-11","2020-12-20","Saxony","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.65064790322951,8.15236912069928e-10,221
+"2020","2020-09-11","2020-12-20","Saxony","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,221
+"2020","2020-09-11","2020-12-20","Saxony","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.658213761692531,4.43642336961399e-10,221
+"2020","2020-02-15","2020-05-25","Thuringia","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.883759178091801,1.88868317801954e-24,132
+"2020","2020-02-15","2020-05-25","Thuringia","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.765411641206661,7.66622924886686e-15,132
+"2020","2020-02-15","2020-05-25","Thuringia","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.495503189970422,1.11566406723016e-05,132
+"2020","2020-02-15","2020-05-25","Thuringia","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.844996762821152,1.9736704754625e-20,132
+"2020","2020-02-15","2020-05-25","Thuringia","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,132
+"2020","2020-02-15","2020-05-25","Thuringia","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.939270940820335,9.0791934177088e-34,132
+"2020","2020-09-11","2020-12-20","Thuringia","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.134904442332336,0.261996465203576,132
+"2020","2020-09-11","2020-12-20","Thuringia","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.144008342496364,0.230856862671793,132
+"2020","2020-09-11","2020-12-20","Thuringia","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.0237052143484578,0.844433453460008,132
+"2020","2020-09-11","2020-12-20","Thuringia","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.573488791246652,1.71830948643584e-07,132
+"2020","2020-09-11","2020-12-20","Thuringia","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,132
+"2020","2020-09-11","2020-12-20","Thuringia","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.384860758014237,0.000919815215939441,132
+"2020","2020-02-15","2020-05-25","Bremen","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.943114980533861,1.01448733547543e-34,1624
+"2020","2020-02-15","2020-05-25","Bremen","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.654608729157291,5.94120072043861e-10,1624
+"2020","2020-02-15","2020-05-25","Bremen","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.345712488957059,0.00314752559512643,1624
+"2020","2020-02-15","2020-05-25","Bremen","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.950638555880481,8.61505497670021e-37,1624
+"2020","2020-02-15","2020-05-25","Bremen","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,1624
+"2020","2020-02-15","2020-05-25","Bremen","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.972727507583252,1.60296963800499e-45,1624
+"2020","2020-09-11","2020-12-20","Bremen","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.197029577424572,0.099574545543123,1624
+"2020","2020-09-11","2020-12-20","Bremen","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.36576693211495,0.00170825015463105,1624
+"2020","2020-09-11","2020-12-20","Bremen","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",0.050854250465558,0.673629298017647,1624
+"2020","2020-09-11","2020-12-20","Bremen","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.430888805808013,0.000176045474844675,1624
+"2020","2020-09-11","2020-12-20","Bremen","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,1624
+"2020","2020-09-11","2020-12-20","Bremen","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.447272345523987,9.20904093292899e-05,1624
+"2021","2021-02-15","2021-05-25","Berlin","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.770082718497126,2.64262719559284e-15,4118
+"2021","2021-02-15","2021-05-25","Berlin","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.899839563048872,6.33473236039559e-27,4118
+"2021","2021-02-15","2021-05-25","Berlin","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.0269035529700214,0.822500933661095,4118
+"2021","2021-02-15","2021-05-25","Berlin","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.837511480842973,4.77708991674486e-20,4118
+"2021","2021-02-15","2021-05-25","Berlin","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,4118
+"2021","2021-02-15","2021-05-25","Berlin","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.813931317890659,3.58529087908676e-18,4118
+"2021","2021-09-11","2021-12-20","Berlin","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.206226246116825,0.0844464784005623,4118
+"2021","2021-09-11","2021-12-20","Berlin","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.536830247848482,1.39228779230884e-06,4118
+"2021","2021-09-11","2021-12-20","Berlin","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",0.0973108090889641,0.419482246664044,4118
+"2021","2021-09-11","2021-12-20","Berlin","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.519903665363355,3.37513620152623e-06,4118
+"2021","2021-09-11","2021-12-20","Berlin","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,4118
+"2021","2021-09-11","2021-12-20","Berlin","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.170655830672695,0.154762473256355,4118
+"2021","2021-02-15","2021-05-25","Bavaria","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.602129106076819,2.20545934443978e-08,186
+"2021","2021-02-15","2021-05-25","Bavaria","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.872413506585697,1.87270898070944e-23,186
+"2021","2021-02-15","2021-05-25","Bavaria","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.312868070807883,0.00745405514804219,186
+"2021","2021-02-15","2021-05-25","Bavaria","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.796917875686719,5.62370446469186e-17,186
+"2021","2021-02-15","2021-05-25","Bavaria","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,186
+"2021","2021-02-15","2021-05-25","Bavaria","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.914948907114877,2.68890450109064e-29,186
+"2021","2021-09-11","2021-12-20","Bavaria","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.517046714746665,3.90101668173875e-06,186
+"2021","2021-09-11","2021-12-20","Bavaria","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.86081995324387,6.34048800850496e-22,186
+"2021","2021-09-11","2021-12-20","Bavaria","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",0.0308303519207369,0.798544917676687,186
+"2021","2021-09-11","2021-12-20","Bavaria","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.392117411395498,0.00071981315851119,186
+"2021","2021-09-11","2021-12-20","Bavaria","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,186
+"2021","2021-09-11","2021-12-20","Bavaria","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.637331934181918,2.28470665916345e-09,186
+"2021","2021-02-15","2021-05-25","Hamburg","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.759657806001288,1.02788370797716e-14,2446
+"2021","2021-02-15","2021-05-25","Hamburg","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.910531764200169,1.46595149799144e-28,2446
+"2021","2021-02-15","2021-05-25","Hamburg","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.065175274790203,0.586489253637674,2446
+"2021","2021-02-15","2021-05-25","Hamburg","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.830829845857985,1.73648753992597e-19,2446
+"2021","2021-02-15","2021-05-25","Hamburg","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,2446
+"2021","2021-02-15","2021-05-25","Hamburg","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.86590197474072,9.53394691456794e-23,2446
+"2021","2021-09-11","2021-12-20","Hamburg","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.0786699621646189,0.514316974620832,2446
+"2021","2021-09-11","2021-12-20","Hamburg","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.53752444608681,1.34124457892797e-06,2446
+"2021","2021-09-11","2021-12-20","Hamburg","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.233213862659618,0.050312757065365,2446
+"2021","2021-09-11","2021-12-20","Hamburg","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.31859291994452,0.00677285906830864,2446
+"2021","2021-09-11","2021-12-20","Hamburg","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,2446
+"2021","2021-09-11","2021-12-20","Hamburg","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",0.073172743412308,0.544226405800811,2446
+"2021","2021-02-15","2021-05-25","Saarland","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.622627060194666,5.23812931170788e-09,384
+"2021","2021-02-15","2021-05-25","Saarland","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.857222273986525,7.34425568746499e-22,384
+"2021","2021-02-15","2021-05-25","Saarland","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.343982907292927,0.00309078708111507,384
+"2021","2021-02-15","2021-05-25","Saarland","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.845852316438737,8.76730914356301e-21,384
+"2021","2021-02-15","2021-05-25","Saarland","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,384
+"2021","2021-02-15","2021-05-25","Saarland","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.944269535307519,1.66622547748375e-35,384
+"2021","2021-09-11","2021-12-20","Saarland","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.733312621442626,3.53898465350461e-13,384
+"2021","2021-09-11","2021-12-20","Saarland","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.851255105940844,5.31404025932635e-21,384
+"2021","2021-09-11","2021-12-20","Saarland","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.177936924393205,0.137653637287214,384
+"2021","2021-09-11","2021-12-20","Saarland","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.529736458655945,2.02969933447614e-06,384
+"2021","2021-09-11","2021-12-20","Saarland","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,384
+"2021","2021-09-11","2021-12-20","Saarland","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.736209112627049,2.56239452449507e-13,384
+"2021","2021-02-15","2021-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.524303126740228,2.27834219358835e-06,184
+"2021","2021-02-15","2021-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.851672769135511,2.52808213945047e-21,184
+"2021","2021-02-15","2021-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.211310619840497,0.0747771155419792,184
+"2021","2021-02-15","2021-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.684336346639184,3.41849684696059e-11,184
+"2021","2021-02-15","2021-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,184
+"2021","2021-02-15","2021-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.922437509567683,1.21476260801411e-30,184
+"2021","2021-09-11","2021-12-20","Schleswig-Holstein","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",-0.154603960731986,0.197972700729223,184
+"2021","2021-09-11","2021-12-20","Schleswig-Holstein","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.448632991915454,8.71352547096511e-05,184
+"2021","2021-09-11","2021-12-20","Schleswig-Holstein","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.251625388714177,0.0342779514167676,184
+"2021","2021-09-11","2021-12-20","Schleswig-Holstein","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.323818630355535,0.00587354015911374,184
+"2021","2021-09-11","2021-12-20","Schleswig-Holstein","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,184
+"2021","2021-09-11","2021-12-20","Schleswig-Holstein","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.127042222032052,0.291077494675383,184
+"2021","2021-02-15","2021-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.596336553932399,3.25126919447914e-08,311
+"2021","2021-02-15","2021-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.846899716172935,7.03617554354581e-21,311
+"2021","2021-02-15","2021-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.478504588290495,2.12379981084675e-05,311
+"2021","2021-02-15","2021-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.793674530167351,9.2278008689691e-17,311
+"2021","2021-02-15","2021-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,311
+"2021","2021-02-15","2021-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.923545642716159,7.48192652766433e-31,311
+"2021","2021-09-11","2021-12-20","Baden-Württemberg","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.549092074006134,7.10884869727244e-07,311
+"2021","2021-09-11","2021-12-20","Baden-Württemberg","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.862054388263275,4.76404809826424e-22,311
+"2021","2021-09-11","2021-12-20","Baden-Württemberg","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.0586862213439718,0.626867282028227,311
+"2021","2021-09-11","2021-12-20","Baden-Württemberg","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.455818070445787,6.48119341880197e-05,311
+"2021","2021-09-11","2021-12-20","Baden-Württemberg","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,311
+"2021","2021-09-11","2021-12-20","Baden-Württemberg","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.634231144691467,2.88384816201437e-09,311
+"2021","2021-02-15","2021-05-25","Brandenburg","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.620486536677881,6.1162379294505e-09,85
+"2021","2021-02-15","2021-05-25","Brandenburg","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.811912090578967,5.04307179220934e-18,85
+"2021","2021-02-15","2021-05-25","Brandenburg","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.361470069531777,0.00181030683767978,85
+"2021","2021-02-15","2021-05-25","Brandenburg","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.700513103818986,7.41125745417059e-12,85
+"2021","2021-02-15","2021-05-25","Brandenburg","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,85
+"2021","2021-02-15","2021-05-25","Brandenburg","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.914174668557806,3.64359197767169e-29,85
+"2021","2021-09-11","2021-12-20","Brandenburg","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.178752893766622,0.135828933911627,85
+"2021","2021-09-11","2021-12-20","Brandenburg","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.373294158062034,0.00134428290668326,85
+"2021","2021-09-11","2021-12-20","Brandenburg","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",0.136638815599778,0.255855467213779,85
+"2021","2021-09-11","2021-12-20","Brandenburg","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.64541673524465,1.22944176368413e-09,85
+"2021","2021-09-11","2021-12-20","Brandenburg","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,85
+"2021","2021-09-11","2021-12-20","Brandenburg","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.357910628698693,0.00218047138668257,85
+"2021","2021-02-15","2021-05-25","Hessen","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.686784915391564,2.72950387771296e-11,298
+"2021","2021-02-15","2021-05-25","Hessen","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.879341834868227,2.99652540450494e-24,298
+"2021","2021-02-15","2021-05-25","Hessen","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.343137459687073,0.00316938335668849,298
+"2021","2021-02-15","2021-05-25","Hessen","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.790058095542563,1.58649679114325e-16,298
+"2021","2021-02-15","2021-05-25","Hessen","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,298
+"2021","2021-02-15","2021-05-25","Hessen","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.926275479073237,2.19618748404028e-31,298
+"2021","2021-09-11","2021-12-20","Hessen","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.228662226361726,0.0551061861471193,298
+"2021","2021-09-11","2021-12-20","Hessen","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.518054716043011,3.70727679168063e-06,298
+"2021","2021-09-11","2021-12-20","Hessen","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.0603383706672348,0.617179630705784,298
+"2021","2021-09-11","2021-12-20","Hessen","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.140568500636696,0.242305550762846,298
+"2021","2021-09-11","2021-12-20","Hessen","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,298
+"2021","2021-09-11","2021-12-20","Hessen","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.088449326358288,0.463254863951984,298
+"2021","2021-02-15","2021-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.69857855471225,8.94536936291406e-12,69
+"2021","2021-02-15","2021-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.842707625582532,1.68065169023843e-20,69
+"2021","2021-02-15","2021-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.294205550751723,0.0121240940729691,69
+"2021","2021-02-15","2021-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.622416998832618,5.31868257356288e-09,69
+"2021","2021-02-15","2021-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,69
+"2021","2021-02-15","2021-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.91193138332421,8.6484140157565e-29,69
+"2021","2021-09-11","2021-12-20","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.220912676311938,0.0641195548780722,69
+"2021","2021-09-11","2021-12-20","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.391374976151324,0.000738287187507273,69
+"2021","2021-09-11","2021-12-20","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",0.218777357189899,0.066802013222566,69
+"2021","2021-09-11","2021-12-20","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.367021759087956,0.00164200854734068,69
+"2021","2021-09-11","2021-12-20","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,69
+"2021","2021-09-11","2021-12-20","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.386954849138459,0.000857473781851036,69
+"2021","2021-02-15","2021-05-25","Lower Saxony","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.609336892858192,1.34592991626101e-08,168
+"2021","2021-02-15","2021-05-25","Lower Saxony","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.833791178208353,9.86993753841294e-20,168
+"2021","2021-02-15","2021-05-25","Lower Saxony","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.380808004104009,0.000966878716101392,168
+"2021","2021-02-15","2021-05-25","Lower Saxony","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.702447943366906,6.13086859110771e-12,168
+"2021","2021-02-15","2021-05-25","Lower Saxony","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,168
+"2021","2021-02-15","2021-05-25","Lower Saxony","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.908886569204083,2.69623364279648e-28,168
+"2021","2021-09-11","2021-12-20","Lower Saxony","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",-0.137832137694396,0.251687455204926,168
+"2021","2021-09-11","2021-12-20","Lower Saxony","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.449482154439358,8.41688793899773e-05,168
+"2021","2021-09-11","2021-12-20","Lower Saxony","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.264106235648535,0.0260426397673636,168
+"2021","2021-09-11","2021-12-20","Lower Saxony","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.197587748188384,0.0985999120472235,168
+"2021","2021-09-11","2021-12-20","Lower Saxony","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,168
+"2021","2021-09-11","2021-12-20","Lower Saxony","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.156215608419227,0.193280645509125,168
+"2021","2021-02-15","2021-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.716688527763222,1.44683129161087e-12,526
+"2021","2021-02-15","2021-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.859118907971917,4.75627513265013e-22,526
+"2021","2021-02-15","2021-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.163147942705938,0.170898592501922,526
+"2021","2021-02-15","2021-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.840626267319285,2.56536836439131e-20,526
+"2021","2021-02-15","2021-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,526
+"2021","2021-02-15","2021-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.916842449617651,1.26325911929683e-29,526
+"2021","2021-09-11","2021-12-20","North Rhine-Westphalia","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.81674875544412,3.86049789431323e-18,526
+"2021","2021-09-11","2021-12-20","North Rhine-Westphalia","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.883597050238252,1.97619455999961e-24,526
+"2021","2021-09-11","2021-12-20","North Rhine-Westphalia","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.257411131651533,0.0302236024535658,526
+"2021","2021-09-11","2021-12-20","North Rhine-Westphalia","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.704525242932406,7.08454739213454e-12,526
+"2021","2021-09-11","2021-12-20","North Rhine-Westphalia","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,526
+"2021","2021-09-11","2021-12-20","North Rhine-Westphalia","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.725926002850394,7.91448873137137e-13,526
+"2021","2021-02-15","2021-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.618194515777061,7.21100292373951e-09,206
+"2021","2021-02-15","2021-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.857277870333866,7.25196444013939e-22,206
+"2021","2021-02-15","2021-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.422851000087218,0.000215263497497936,206
+"2021","2021-02-15","2021-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.700388425427325,7.50200377897194e-12,206
+"2021","2021-02-15","2021-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,206
+"2021","2021-02-15","2021-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.933512630154736,6.68113472511119e-33,206
+"2021","2021-09-11","2021-12-20","Rhineland-Palatinate","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.62159683426579,7.2554697981272e-09,206
+"2021","2021-09-11","2021-12-20","Rhineland-Palatinate","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.873576851200219,2.87043032242837e-23,206
+"2021","2021-09-11","2021-12-20","Rhineland-Palatinate","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.234810831681326,0.0487141955271883,206
+"2021","2021-09-11","2021-12-20","Rhineland-Palatinate","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.364389602998441,0.0017837171735623,206
+"2021","2021-09-11","2021-12-20","Rhineland-Palatinate","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,206
+"2021","2021-09-11","2021-12-20","Rhineland-Palatinate","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.70161246015991,9.40523741928063e-12,206
+"2021","2021-02-15","2021-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.645241501186301,9.45614526445688e-10,107
+"2021","2021-02-15","2021-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.833052159703384,1.13760967831135e-19,107
+"2021","2021-02-15","2021-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.350040073553039,0.00257670506536882,107
+"2021","2021-02-15","2021-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.7902431663019,1.54350412578759e-16,107
+"2021","2021-02-15","2021-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,107
+"2021","2021-02-15","2021-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.908019636849788,3.69997281563911e-28,107
+"2021","2021-09-11","2021-12-20","Saxony-Anhalt","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",-0.157472747791125,0.1896765478759,107
+"2021","2021-09-11","2021-12-20","Saxony-Anhalt","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.0708725638600846,0.556987367485096,107
+"2021","2021-09-11","2021-12-20","Saxony-Anhalt","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.0460212282613975,0.703128550360669,107
+"2021","2021-09-11","2021-12-20","Saxony-Anhalt","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.332047556004326,0.00466993504647365,107
+"2021","2021-09-11","2021-12-20","Saxony-Anhalt","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,107
+"2021","2021-09-11","2021-12-20","Saxony-Anhalt","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.306762585042328,0.00926799436318993,107
+"2021","2021-02-15","2021-05-25","Saxony","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.685337730639056,3.11869357487958e-11,221
+"2021","2021-02-15","2021-05-25","Saxony","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.836469947238062,5.86389422493309e-20,221
+"2021","2021-02-15","2021-05-25","Saxony","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.207711102743792,0.0799819783135264,221
+"2021","2021-02-15","2021-05-25","Saxony","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.743948355843144,7.0258318072312e-14,221
+"2021","2021-02-15","2021-05-25","Saxony","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,221
+"2021","2021-02-15","2021-05-25","Saxony","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.898837501591783,8.82049843058847e-27,221
+"2021","2021-09-11","2021-12-20","Saxony","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.634045524130719,2.92409316740081e-09,221
+"2021","2021-09-11","2021-12-20","Saxony","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.788507998975762,3.2663711950375e-16,221
+"2021","2021-09-11","2021-12-20","Saxony","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",0.0761950418022509,0.527678415095711,221
+"2021","2021-09-11","2021-12-20","Saxony","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.608788364523234,1.77439204702037e-08,221
+"2021","2021-09-11","2021-12-20","Saxony","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,221
+"2021","2021-09-11","2021-12-20","Saxony","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.678722861856197,7.78903092614972e-11,221
+"2021","2021-02-15","2021-05-25","Thuringia","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.655071844198977,4.29487067312976e-10,132
+"2021","2021-02-15","2021-05-25","Thuringia","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.833964757071722,9.54516906389076e-20,132
+"2021","2021-02-15","2021-05-25","Thuringia","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.34508289553928,0.00299113216837815,132
+"2021","2021-02-15","2021-05-25","Thuringia","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.717353578257836,1.34958317895921e-12,132
+"2021","2021-02-15","2021-05-25","Thuringia","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,132
+"2021","2021-02-15","2021-05-25","Thuringia","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.903186108715995,2.04349362432634e-27,132
+"2021","2021-09-11","2021-12-20","Thuringia","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.607786118982943,1.89983226728446e-08,132
+"2021","2021-09-11","2021-12-20","Thuringia","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.830329802719095,3.44851281669972e-19,132
+"2021","2021-09-11","2021-12-20","Thuringia","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.171388568776609,0.152972446535203,132
+"2021","2021-09-11","2021-12-20","Thuringia","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.4775136378346,2.54477460617729e-05,132
+"2021","2021-09-11","2021-12-20","Thuringia","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,132
+"2021","2021-09-11","2021-12-20","Thuringia","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.606924145124857,2.0144052460057e-08,132
+"2021","2021-02-15","2021-05-25","Bremen","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.704369092844009,5.0708689578865e-12,1624
+"2021","2021-02-15","2021-05-25","Bremen","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.821932600984485,8.89688148350792e-19,1624
+"2021","2021-02-15","2021-05-25","Bremen","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.22143052521114,0.061581898803476,1624
+"2021","2021-02-15","2021-05-25","Bremen","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.841802219014191,2.02162919956569e-20,1624
+"2021","2021-02-15","2021-05-25","Bremen","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,1624
+"2021","2021-02-15","2021-05-25","Bremen","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.892995336381514,5.68591425476971e-26,1624
+"2021","2021-09-11","2021-12-20","Bremen","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",-0.0754079095967037,0.531963914667681,1624
+"2021","2021-09-11","2021-12-20","Bremen","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.470893818466355,3.40760006075592e-05,1624
+"2021","2021-09-11","2021-12-20","Bremen","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",0.0239968589710769,0.84254386943438,1624
+"2021","2021-09-11","2021-12-20","Bremen","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",-0.313046749977441,0.00785761633168097,1624
+"2021","2021-09-11","2021-12-20","Bremen","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,1624
+"2021","2021-09-11","2021-12-20","Bremen","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.0662577596780881,0.583011022841617,1624
+"2022","2022-02-15","2022-05-25","Berlin","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.725977510772993,1.13108609317375e-10,4118
+"2022","2022-02-15","2022-05-25","Berlin","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.857412585934816,8.58553208779854e-18,4118
+"2022","2022-02-15","2022-05-25","Berlin","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.168889710926909,0.205029109886397,4118
+"2022","2022-02-15","2022-05-25","Berlin","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.78684707316468,2.43964025534511e-13,4118
+"2022","2022-02-15","2022-05-25","Berlin","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,4118
+"2022","2022-02-15","2022-05-25","Berlin","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.712311439770327,3.60071912212533e-10,4118
+"2022","2022-02-15","2022-05-25","Bavaria","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.512950658223226,3.83718159197679e-05,186
+"2022","2022-02-15","2022-05-25","Bavaria","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.849192546220557,3.67611287509593e-17,186
+"2022","2022-02-15","2022-05-25","Bavaria","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.575139926761377,2.33296462608999e-06,186
+"2022","2022-02-15","2022-05-25","Bavaria","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.435628841727374,0.000631161948398461,186
+"2022","2022-02-15","2022-05-25","Bavaria","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,186
+"2022","2022-02-15","2022-05-25","Bavaria","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.772827049648269,1.18455018883643e-12,186
+"2022","2022-02-15","2022-05-25","Hamburg","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.769842126010112,1.63451290073045e-12,2446
+"2022","2022-02-15","2022-05-25","Hamburg","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.90691301321808,1.10890877248759e-22,2446
+"2022","2022-02-15","2022-05-25","Hamburg","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.335207464609684,0.0101060681053384,2446
+"2022","2022-02-15","2022-05-25","Hamburg","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.624367500582244,1.62912530742351e-07,2446
+"2022","2022-02-15","2022-05-25","Hamburg","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,2446
+"2022","2022-02-15","2022-05-25","Hamburg","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.736788435278333,4.30445445882406e-11,2446
+"2022","2022-02-15","2022-05-25","Saarland","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.577790775335702,2.04375200322787e-06,384
+"2022","2022-02-15","2022-05-25","Saarland","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.843584232429266,9.44522779696952e-17,384
+"2022","2022-02-15","2022-05-25","Saarland","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.574827214257493,2.36949476167045e-06,384
+"2022","2022-02-15","2022-05-25","Saarland","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.577096386009253,2.11608835946393e-06,384
+"2022","2022-02-15","2022-05-25","Saarland","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,384
+"2022","2022-02-15","2022-05-25","Saarland","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.857368549464879,8.65476283676175e-18,384
+"2022","2022-02-15","2022-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.463752296930173,0.000245969485360537,184
+"2022","2022-02-15","2022-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.797104895059806,7.10971838638218e-14,184
+"2022","2022-02-15","2022-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.542854492477478,1.0701224718072e-05,184
+"2022","2022-02-15","2022-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.390794100797237,0.00242120364650096,184
+"2022","2022-02-15","2022-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,184
+"2022","2022-02-15","2022-05-25","Schleswig-Holstein","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.822214986547476,2.51915955835793e-15,184
+"2022","2022-02-15","2022-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.496586519917634,7.34759765944388e-05,311
+"2022","2022-02-15","2022-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.860107285815757,5.2249812633358e-18,311
+"2022","2022-02-15","2022-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.665629601193971,1.192021905971e-08,311
+"2022","2022-02-15","2022-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.559087100774788,5.07571366787602e-06,311
+"2022","2022-02-15","2022-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,311
+"2022","2022-02-15","2022-05-25","Baden-Württemberg","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.802263884448331,3.72269785906065e-14,311
+"2022","2022-02-15","2022-05-25","Brandenburg","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.531988023364956,1.72605830260027e-05,85
+"2022","2022-02-15","2022-05-25","Brandenburg","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.804073697925284,2.9534057664176e-14,85
+"2022","2022-02-15","2022-05-25","Brandenburg","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.427350436036032,0.000820464325975269,85
+"2022","2022-02-15","2022-05-25","Brandenburg","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.520266467676864,2.83881047296739e-05,85
+"2022","2022-02-15","2022-05-25","Brandenburg","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,85
+"2022","2022-02-15","2022-05-25","Brandenburg","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.860071390190935,5.26001788252081e-18,85
+"2022","2022-02-15","2022-05-25","Hessen","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.606104924030443,4.60896088551379e-07,298
+"2022","2022-02-15","2022-05-25","Hessen","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.848435039194687,4.18508402917102e-17,298
+"2022","2022-02-15","2022-05-25","Hessen","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.639710163747854,6.44809237957883e-08,298
+"2022","2022-02-15","2022-05-25","Hessen","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.331822421114506,0.010939774616823,298
+"2022","2022-02-15","2022-05-25","Hessen","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,298
+"2022","2022-02-15","2022-05-25","Hessen","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.774956091127537,9.38678395387867e-13,298
+"2022","2022-02-15","2022-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.491967201090367,8.77450124923443e-05,69
+"2022","2022-02-15","2022-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.806663721978064,2.11164096612401e-14,69
+"2022","2022-02-15","2022-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.357251312580105,0.00590505808400972,69
+"2022","2022-02-15","2022-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.0874299621876678,0.514011893150124,69
+"2022","2022-02-15","2022-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,69
+"2022","2022-02-15","2022-05-25","Mecklenburg-Vorpommern","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.865198228870152,1.98649432002927e-18,69
+"2022","2022-02-15","2022-05-25","Lower Saxony","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.567083464187252,3.4637898756455e-06,168
+"2022","2022-02-15","2022-05-25","Lower Saxony","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.819818571084035,3.54221484094177e-15,168
+"2022","2022-02-15","2022-05-25","Lower Saxony","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.521285088304332,2.72065878025606e-05,168
+"2022","2022-02-15","2022-05-25","Lower Saxony","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.41051520390955,0.00137097785424845,168
+"2022","2022-02-15","2022-05-25","Lower Saxony","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,168
+"2022","2022-02-15","2022-05-25","Lower Saxony","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.816283397628026,5.80347189643291e-15,168
+"2022","2022-02-15","2022-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.621440397539011,1.93326999272701e-07,526
+"2022","2022-02-15","2022-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.850785828903885,2.79208532241232e-17,526
+"2022","2022-02-15","2022-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.507445845047194,4.79216547791525e-05,526
+"2022","2022-02-15","2022-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.68272501565087,3.56475936708442e-09,526
+"2022","2022-02-15","2022-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,526
+"2022","2022-02-15","2022-05-25","North Rhine-Westphalia","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.764077481476499,3.00343849995998e-12,526
+"2022","2022-02-15","2022-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.506488668727638,4.97904271320785e-05,206
+"2022","2022-02-15","2022-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.83653545841572,2.93837014934274e-16,206
+"2022","2022-02-15","2022-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.661913560183059,1.53384256909869e-08,206
+"2022","2022-02-15","2022-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.256816288814885,0.0516482613518537,206
+"2022","2022-02-15","2022-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,206
+"2022","2022-02-15","2022-05-25","Rhineland-Palatinate","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.822571992569951,2.39340019767853e-15,206
+"2022","2022-02-15","2022-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.707091239189774,5.50713664125616e-10,107
+"2022","2022-02-15","2022-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.866863972521715,1.43530538620062e-18,107
+"2022","2022-02-15","2022-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.299720091529414,0.0222697390130476,107
+"2022","2022-02-15","2022-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.453085744216961,0.000355027622040337,107
+"2022","2022-02-15","2022-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,107
+"2022","2022-02-15","2022-05-25","Saxony-Anhalt","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.882345320677198,5.582147738873e-20,107
+"2022","2022-02-15","2022-05-25","Saxony","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.697031794759188,1.21755544543637e-09,221
+"2022","2022-02-15","2022-05-25","Saxony","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.878418021251091,1.32598035671988e-19,221
+"2022","2022-02-15","2022-05-25","Saxony","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.204892967515635,0.122862448925365,221
+"2022","2022-02-15","2022-05-25","Saxony","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.612017980845849,3.31504111804857e-07,221
+"2022","2022-02-15","2022-05-25","Saxony","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,221
+"2022","2022-02-15","2022-05-25","Saxony","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.856988482453699,9.2749258428861e-18,221
+"2022","2022-02-15","2022-05-25","Thuringia","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.6533356168838,2.70888388039374e-08,132
+"2022","2022-02-15","2022-05-25","Thuringia","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.847820431097509,4.64698601081925e-17,132
+"2022","2022-02-15","2022-05-25","Thuringia","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.373740140935915,0.00385387347458034,132
+"2022","2022-02-15","2022-05-25","Thuringia","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.531285138617202,1.77926146436423e-05,132
+"2022","2022-02-15","2022-05-25","Thuringia","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,132
+"2022","2022-02-15","2022-05-25","Thuringia","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.847749645826394,4.70321727540668e-17,132
+"2022","2022-02-15","2022-05-25","Bremen","workplaces_percent_change_from_baseline","retail_and_recreation_percent_change_from_baseline",0.646170186247297,4.29730718035347e-08,1624
+"2022","2022-02-15","2022-05-25","Bremen","workplaces_percent_change_from_baseline","grocery_and_pharmacy_percent_change_from_baseline",0.812795614979604,9.34919522186218e-15,1624
+"2022","2022-02-15","2022-05-25","Bremen","workplaces_percent_change_from_baseline","parks_percent_change_from_baseline",-0.347093676807466,0.00759896574192695,1624
+"2022","2022-02-15","2022-05-25","Bremen","workplaces_percent_change_from_baseline","transit_stations_percent_change_from_baseline",0.366559570723913,0.00465337794044197,1624
+"2022","2022-02-15","2022-05-25","Bremen","workplaces_percent_change_from_baseline","workplaces_percent_change_from_baseline",1,0,1624
+"2022","2022-02-15","2022-05-25","Bremen","workplaces_percent_change_from_baseline","residential_percent_change_from_baseline",-0.757827631506462,5.69865218262711e-12,1624
