@@ -11,33 +11,33 @@ In order to run the R-Scripts the file "Data.zip" needs to be unzipped first. Ne
 This file can be found at /Users/Aleks/Desktop/Studium/Bachelorarbeit/DataAnalytics/R projects/R_Bachelorarbeit/Zeitraumvergleich/
 
 The dataset referred in chapter 4.4.1 was created through this script. The dataset can be found at 
-/Users/Aleks/Desktop/Studium/Bachelorarbeit/DataAnalytics/R projects/R_Bachelorarbeit/Zeitraumvergleich/dataframe_final_export.csv
+/R projects/R_Bachelorarbeit/Zeitraumvergleich/dataframe_final_export.csv
 
 - **data_analysis_zeitraumvergleich.R**
 
-This file can be found at /Users/Aleks/Desktop/Studium/Bachelorarbeit/DataAnalytics/R projects/R_Bachelorarbeit/Zeitraumvergleich/
+This file can be found at /R projects/R_Bachelorarbeit/Zeitraumvergleich/
 
 The charts shown in chapter 4.4.1 were created through this script. The charts were stored in the file "plots.pdf".
 
  - **stenge_index_VARIABLE_time_comparison_correlation.R**
 
-This file can be found at /Users/Aleks/Desktop/Studium/Bachelorarbeit/DataAnalytics/R projects/R_Bachelorarbeit/Zeitraumvergleich/
+This file can be found at /R projects/R_Bachelorarbeit/Zeitraumvergleich/
 
 The dataset referred in chapter 4.6 was created through this script. The dataset can be found at 
-/Users/Aleks/Desktop/Studium/Bachelorarbeit/DataAnalytics/R projects/R_Bachelorarbeit/Zeitraumvergleich/corr_index_var_dataframe_final_export.csv
+/R projects/R_Bachelorarbeit/Zeitraumvergleich/corr_index_var_dataframe_final_export.csv
 
 - **index_data_analysis_zeitraumvergleich.R**
 
-This file can be found at /Users/Aleks/Desktop/Studium/Bachelorarbeit/DataAnalytics/R projects/R_Bachelorarbeit/Zeitraumvergleich/
+This file can be found at /R projects/R_Bachelorarbeit/Zeitraumvergleich/
 
 The charts shown in chapter 4.6 were created through this script. The charts were stored in the file "index_plots.pdf".
 
 - **density_correlation_comparison_visualization.R**
 
-This file can be found at /Users/Aleks/Desktop/Studium/Bachelorarbeit/DataAnalytics/R projects/R_Bachelorarbeit/Zeitraumvergleich/
+This file can be found at /R projects/R_Bachelorarbeit/Zeitraumvergleich/
 
 The analysis and visualizations referred in chapter 4.5 were created through this script. The dataset can be found at 
-/Users/Aleks/Desktop/Studium/Bachelorarbeit/DataAnalytics/R projects/R_Bachelorarbeit/Zeitraumvergleich/density_comparison.csv
+/R projects/R_Bachelorarbeit/Zeitraumvergleich/density_comparison.csv
 
 The charts were stored in the file "plots_density.pdf".
 
